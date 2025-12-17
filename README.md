@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-🌱 I’m currently learning Java and SICP
+🌱 Current focus: Java and SICP (Scheme).
