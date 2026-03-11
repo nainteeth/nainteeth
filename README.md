@@ -1,3 +1,3 @@
 ## Hi there 👋
 
-🌱 Current focus: Java and SICP (Scheme).
+🌱 Current focus: Java and NixOS
